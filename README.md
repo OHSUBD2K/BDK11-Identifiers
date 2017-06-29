@@ -53,4 +53,3 @@ As a result, the materials provided here have limited imagery as we intend for t
 - Google Images:  Head to [Google Advanced Image Search](http://www.google.com/advanced_image_search) and under the “usage rights” filter, select the filter that matches your requirements.
 - Flickr Creative Commons:  Many users of Flickr have elected to allow their photographs to be reused.  To browse or search for CC licensed images, head to https://www.flickr.com/creativecommons/  
 - Institutional licenses: depending on your home institution, your library may subscribe to an image database that may be useful.  Please consult with your librarian to see if such assets are available to you.
->>>>>>> origin/master
